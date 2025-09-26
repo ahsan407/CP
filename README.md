@@ -20,12 +20,13 @@ I am using these sheets to practice and improve my problem-solving skills in com
 |-------|-------------------------|-------------------------------------------------------------------------------|--------------------|
 | 1     | Data type – Condition   | [Codeforces Sheet 1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)  | [Solutions](./Sheet_1) |
 | 2     | Loops                   | [Codeforces Sheet 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)  | [Solutions](./Sheet_2) |
+| 3     | Arrays                  | [Codeforces Sheet 3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)  | [Solutions](./Sheet_3) |
 
 ---
 
 ## 🎯 Goals
 
-- Strengthen basics of **data types**, **conditions**, and **loops**.  
+- Strengthen basics of **data types**, **conditions**, **loops**, and **arrays**.  
 - Practice **problem-solving** for competitive programming.  
 - Improve **coding speed** and **accuracy**.  
 
@@ -35,16 +36,21 @@ I am using these sheets to practice and improve my problem-solving skills in com
 ```
 .
 ├── Sheet_1/
-│   ├── A.cpp
-│   ├── B.cpp
-│   ├── ...
-│   └── Z.cpp
+│ ├── A.cpp
+│ ├── B.cpp
+│ ├── ...
+│ └── Z.cpp
 ├── Sheet_2/
-│   ├── A.cpp
-│   ├── B.cpp
-│   ├── ...
+│ ├── A.cpp
+│ ├── B.cpp
+│ ├── ...
+│ └── Z.cpp
+├── Sheet_3/
+│ ├── A.cpp
+│ ├── B.cpp
+│ ├── ...
+│ └── Z.cpp
 ├── README.md
 └── LICENSE
 ```
-
 
