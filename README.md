@@ -8,7 +8,7 @@ I am using these sheets to practice and improve my problem-solving skills in com
 ## 📌 Details
 
 - **Platform:** Codeforces  
-- **Codeforces ID:** abc  
+- **Codeforces ID:** ahsan534  
 - **Language:** C++  
 - **IDE:** VS Code  
 
